@@ -1,3 +1,4 @@
+[View Project Timeline](timeline.csv)
 # StarSprouts Adventure - Game Design Document
 
 ## Project Overview
